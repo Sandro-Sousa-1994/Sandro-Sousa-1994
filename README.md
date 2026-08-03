@@ -1,27 +1,37 @@
 <div align="center">
 
-# 👋 Hi, I'm Sandro Sousa
+<p align="center">
+  <img src="assets/banner.png" alt="Sandro Sousa Banner" width="100%" />
+</p>
 
-### Backend Software Engineer • .NET • C# • SQL • Cloud
+<h1 align="center">Hi 👋 I'm Sandro Sousa</h1>
 
-Building scalable applications with clean architecture and best practices.
+<h3 align="center">
+Backend Software Engineer • .NET • C# • Cloud
+</h3>
+
+<p align="center">
+Building scalable applications with clean architecture and modern technologies.
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Backend Developer with 4+ years of professional experience.
-- 🚀 Specialized in C#, .NET, ASP.NET Core and REST APIs.
-- 🗄 Strong experience with SQL Server, PostgreSQL and MongoDB.
-- 📨 Experience with RabbitMQ, Dapper and Entity Framework Core.
-- ☁ Currently learning AWS and improving my Cloud skills.
-- 📚 Passionate about Clean Architecture, SOLID and software engineering.
+- 💼 Backend Software Engineer with 4+ years of professional experience.
+- 🚀 Experienced in building REST APIs and enterprise applications with C# and .NET.
+- 🗄 Strong knowledge of SQL Server, PostgreSQL and MongoDB.
+- 📨 Hands-on experience with Entity Framework Core, Dapper and RabbitMQ.
+- ☁ Currently expanding my expertise in AWS and cloud-native development.
+- 📚 Passionate about Clean Architecture, SOLID principles and software engineering.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
+
+> 🚧 This section is under construction...
 
 ## Backend
 
@@ -41,13 +51,14 @@ Building scalable applications with clean architecture and best practices.
 
 ---
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
-> Coming soon...
+> 🚧 Coming in the next update...
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
-- LinkedIn
-- Email
+- GitHub: @Sandro-Sousa-1994
+- LinkedIn: Coming soon...
+- Email: Coming soon...
