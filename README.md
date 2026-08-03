@@ -3,16 +3,18 @@ Hi 👋, I'm Sandro Sousa
 </h1>
 
 <h3 align="center">
-Backend Software Engineer | .NET | REST APIs | Cloud
+Backend Software Engineer • .NET • REST APIs • Software Architecture
 </h3>
 
 <p align="center">
 Passionate about building scalable backend applications, designing clean architectures and continuously evolving as a software engineer.
 </p>
 
----
+<h2 align="center">
 
-# 👨‍💻 Professional Overview
+👨‍💻 Professional Overview
+
+</h2>
 
 Backend Software Engineer with over 4 years of professional experience developing enterprise applications using C# and .NET.
 
@@ -33,9 +35,13 @@ My professional experience includes:
 
 Currently expanding my knowledge in Cloud Computing, AWS services and modern software architecture.
 
----
 
-# 🛠 Technical Skills
+
+<h2 align="center">
+
+🛠 Technical Skills
+
+</h2>
 
 ## 💻 Backend
 
@@ -57,7 +63,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
+
 
 ## 🎨 Frontend
 
@@ -73,7 +79,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
+
 
 ## 🗄 Database
 
@@ -91,7 +97,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
+
 
 ## ☁ Cloud & DevOps
 
@@ -107,7 +113,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
+
 
 ## 🏛 Architecture & Best Practices
 
@@ -127,7 +133,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
+
 
 ## ⚙ Tools
 
@@ -143,9 +149,12 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
 
-# 📈 GitHub Analytics
+<h2 align="center">
+
+📈 GitHub Analytics
+
+</h2>
 
 <p align="center">
 
@@ -155,16 +164,76 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
----
+<p align="center">
 
-# 📌 Featured Projects
+<img src="https://streak-stats.demolab.com?user=Sandro-Sousa-1994&theme=tokyonight&hide_border=true"/>
 
-> 🚧 This section will be updated as I continue publishing personal and professional projects.
+</p>
 
----
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandro-Sousa-1994&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+## 📈 Activity Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandro-Sousa-1994&theme=tokyonight"/>
+
+</p>
+
+<h2 align="center">
+
+📌 Featured Projects
+
+</h2>
+
+I'm currently building personal projects focused on backend development and software architecture.
+
+These projects are designed to demonstrate real-world solutions using modern .NET technologies.
+
+Current focus:
+
+- REST APIs with ASP.NET Core
+- Authentication & Authorization
+- Clean Architecture
+- CQRS + MediatR
+- Docker
+- AWS
+
+
 
 # 📫 Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/sandro-sousa
-- 📧 Email: sandro-souza-oliveira@hotmail.com
-- 💻 GitHub: https://github.com/Sandro-Sousa-1994
+<h2 align="center">
+
+📫 Let's Connect
+
+</h2>
+
+<p align="center">
+
+Feel free to reach out for professional opportunities, collaborations or technology discussions.
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sandro-sousa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sandro-souza-oliveira@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sandro-Sousa-1994">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
