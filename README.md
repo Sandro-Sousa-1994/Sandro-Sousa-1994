@@ -171,7 +171,11 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 </p>
 
 
-## 📊 Contribution Graph
+<h2 align="center">
+
+📊 Contribution Graph
+
+</h2>
 
 <p align="center">
 
@@ -179,7 +183,11 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
-## 📈 Activity Overview
+<h2 align="center">
+
+📈 Activity Overview
+
+</h2>
 
 <p align="center">
 
@@ -189,26 +197,26 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 <h2 align="center">
 
+🏆 GitHub Trophies
+
+</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sandro-Sousa-1994&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+<h2 align="center">
+
 📌 Featured Projects
 
 </h2>
 
-I'm currently building personal projects focused on backend development and software architecture.
+I'm currently publishing personal projects that demonstrate my experience with .NET, software architecture, cloud technologies and backend development.
 
-These projects are designed to demonstrate real-world solutions using modern .NET technologies.
+Stay tuned!
 
-Current focus:
-
-- REST APIs with ASP.NET Core
-- Authentication & Authorization
-- Clean Architecture
-- CQRS + MediatR
-- Docker
-- AWS
-
-
-
-# 📫 Contact
 
 <h2 align="center">
 
