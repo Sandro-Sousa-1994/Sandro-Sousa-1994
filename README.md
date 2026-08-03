@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sandro-Sousa-1994/Sandro-Sousa-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sandro Sousa
 
-Here are some ideas to get you started:
+### Backend Software Engineer • .NET • C# • SQL • Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable applications with clean architecture and best practices.
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 💼 Backend Developer with 4+ years of professional experience.
+- 🚀 Specialized in C#, .NET, ASP.NET Core and REST APIs.
+- 🗄 Strong experience with SQL Server, PostgreSQL and MongoDB.
+- 📨 Experience with RabbitMQ, Dapper and Entity Framework Core.
+- ☁ Currently learning AWS and improving my Cloud skills.
+- 📚 Passionate about Clean Architecture, SOLID and software engineering.
+
+---
+
+# 🚀 Tech Stack
+
+## Backend
+
+> Coming soon...
+
+## Frontend
+
+> Coming soon...
+
+## Database
+
+> Coming soon...
+
+## Cloud & DevOps
+
+> Coming soon...
+
+---
+
+# 📈 GitHub Analytics
+
+> Coming soon...
+
+---
+
+# 📫 Contact
+
+- LinkedIn
+- Email
