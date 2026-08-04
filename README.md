@@ -165,7 +165,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 <img src="https://img.shields.io/badge/Coffee_Consumed-842_Cups-8B4513?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 
-<img src="https://wakatime.com/badge/user/SEU_USER.svg"/>
+<img src="https://wakatime.com/badge/user/Sandro-Sousa-1994.svg"/>
 
 </p>
 
