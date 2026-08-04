@@ -156,28 +156,32 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 </p>
 
 <h2 align="center">
-📌 Featured Projects
+🚀 Clean Architecture API
+
+🚀 Authentication API
+
+🚀 MVC Management System
 </h2>
 
 <p align="center">
 I'm currently publishing personal projects that demonstrate my experience with .NET, software architecture, cloud technologies and backend development.
-
-<b>I'm currently publishing personal projects that demonstrate my experience with .NET, software architecture, cloud technologies and backend development.</b>
 </p>
 
 <h2 align="center">
+
 🔥 Development Metrics
+
 </h2>
 
 <p align="center">
-<strong>Coming soon:</strong><br>
-☕ Coffee Powered<br>
-⌚ WakaTime (Coming Soon)
-</p>
 
-<h2 align="center">
-📈 GitHub Analytics
-</h2>
+☕ Coffee Powered
+
+<br>
+
+⌚ WakaTime (Coming Soon)
+
+</p>
 
 <p align="center">
 
