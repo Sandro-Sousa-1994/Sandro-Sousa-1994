@@ -6,6 +6,10 @@ Hello world!
 Backend Software Engineer • .NET • REST APIs • Software Architecture
 </h3>
 
+<p align="center">
+Passionate about building scalable backend applications, designing clean architectures and continuously evolving as a software engineer.
+</p>
+
 <h2 align="center">
 📫 Let's Connect
 </h2>
@@ -31,10 +35,6 @@ Feel free to reach out for professional opportunities, collaborations or technol
 <h2 align="center">
 👨‍💻 Professional Overview
 </h2>
-
-<p align="center">
-Passionate about building scalable backend applications, designing clean architectures and continuously evolving as a software engineer.
-</p>
 
 Backend Software Engineer with over 4 years of professional experience developing enterprise applications using C# and .NET.
 
@@ -162,7 +162,7 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 <p align="center">
 I'm currently publishing personal projects that demonstrate my experience with .NET, software architecture, cloud technologies and backend development.
 
-<b>Stay tuned!</b>
+<b>I'm currently publishing personal projects that demonstrate my experience with .NET, software architecture, cloud technologies and backend development.</b>
 </p>
 
 <h2 align="center">
