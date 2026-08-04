@@ -163,11 +163,9 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 <p align="center">
 
-☕ Coffee Powered
+<img src="https://img.shields.io/badge/Coffee_Consumed-842_Cups-8B4513?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 
-<br>
-
-⌚ WakaTime (Coming Soon)
+<img src="https://wakatime.com/badge/user/SEU_USER.svg"/>
 
 </p>
 
