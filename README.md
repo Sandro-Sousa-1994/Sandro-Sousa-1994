@@ -155,14 +155,6 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 </p>
 
-<h2 align="center">
-🚀 Clean Architecture API
-
-🚀 Authentication API
-
-🚀 MVC Management System
-</h2>
-
 <p align="center">
 I'm currently publishing personal projects that demonstrate my experience with .NET, software architecture, cloud technologies and backend development.
 </p>
