@@ -173,9 +173,9 @@ Currently expanding my knowledge in Cloud Computing, AWS services and modern sof
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandro-Sousa-1994&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandro-Sousa-1994&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Sousa-1994&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandro-Sousa-1994&theme=tokyonight"/>
 
 </p>
 
